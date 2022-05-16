@@ -1,6 +1,6 @@
 fun main(){
     // These constants set the game perimeters
-    val maxGameNumber = 10
+    val maxGameNumber = 100
     val minGameNumber = 0
     
     val game = TheGame()
@@ -36,7 +36,7 @@ class TheGame{
             when (js("prompt(\"Do you wont to play? yes/no\")")) {
                 "no" -> return false
                 "yes" -> return true
-                else -> println("i don't understand you =(")
+                else -> js("alert(\"i don't understand you =(\")")
             }
         }
     }
