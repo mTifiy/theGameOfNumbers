@@ -1,3 +1,3 @@
 # theGameOfNumbers 
-https://pl.kotl.in/kkQP-OEy_
-<iframe src="https://pl.kotl.in/kkQP-OEy_"></iframe>
+https://pl.kotl.in/qyiruS29i
+<iframe src="https://pl.kotl.in/qyiruS29i"></iframe>
